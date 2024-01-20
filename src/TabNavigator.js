@@ -67,8 +67,6 @@ import {
                 }}
             />
         </Tab.Navigator>
-
-
     );
 }
 
