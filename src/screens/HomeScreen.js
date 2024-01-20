@@ -16,7 +16,6 @@ const HomeScreen = ({ navigation }) => {
       setLabelButton("Dashboard");
     }
   });
-
   return(
       <Background>
         <Logo />
@@ -34,5 +33,4 @@ const HomeScreen = ({ navigation }) => {
       </Background>
     )
   }
-
 export default memo(HomeScreen)
